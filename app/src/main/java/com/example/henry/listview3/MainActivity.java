@@ -11,6 +11,8 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
     ListView listView;
 
+    // bla bla bla
+
     String[] elementos = {"Jose","Pedro","Maria","Miguel", "Luis","Helena", "Laura", "Linda","Alice","Adrian"};
 
     @Override
